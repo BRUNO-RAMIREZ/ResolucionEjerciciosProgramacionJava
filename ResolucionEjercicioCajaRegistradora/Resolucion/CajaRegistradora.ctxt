@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CajaRegistradora
+comment1.params=contrasenia
+comment1.target=CajaRegistradora(java.lang.String)
+comment2.params=contrasenia
+comment2.target=boolean\ autentificarse(java.lang.String)
+comment3.params=monto
+comment3.target=java.lang.String\ ingresarDinero(int)
+comment4.params=retiro
+comment4.target=java.lang.String\ retirarDinero(int)
+comment5.params=
+comment5.target=java.lang.String\ retirarTodoDinero()
+comment6.params=
+comment6.target=java.lang.String\ consultarDinero()
+comment7.params=
+comment7.target=java.lang.String\ obtenerGanancias()
+comment8.params=
+comment8.target=java.lang.String\ cambiarDolaresOBolivianos()
+comment9.params=antiguaContrasenia\ nuevaContrasenia
+comment9.target=java.lang.String\ cambiarContrasenia(java.lang.String,\ java.lang.String)
+numComments=10
