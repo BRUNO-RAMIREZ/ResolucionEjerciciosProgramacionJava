@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=InterpreteCodigoMorse
+comment1.params=codigo
+comment1.target=java.lang.String\ interpretarCodigo(java.lang.String)
+comment2.params=codigo
+comment2.target=java.lang.String\ buscarLetra(java.lang.String)
+numComments=3
