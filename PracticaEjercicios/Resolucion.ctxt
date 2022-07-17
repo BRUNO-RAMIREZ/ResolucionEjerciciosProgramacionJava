@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Resolucion
+comment1.params=n
+comment1.target=int\ ejercicio1(int)
+comment2.params=A\ B
+comment2.target=int\ ejercicio2(int,\ int)
+comment3.params=n
+comment3.target=java.lang.String\ ejercicio3(int)
+comment4.params=n
+comment4.target=boolean\ esPrimo(int)
+comment5.params=n
+comment5.target=int\ contarDigitos(int)
+comment6.params=n
+comment6.target=java.lang.String\ numerPerfecto(int)
+comment7.params=n
+comment7.target=void\ divisoresNumero(int)
+comment8.params=n
+comment8.target=int\ potenciasDos(int)
+numComments=9
