@@ -1,0 +1,12 @@
+Se esta diseñando un prototipo de un robot de los mas simple. Que en el futuro se manejara con sensores, por el
+momento se quiere saber si el robot tiene la capacidad de obedecer ordenes simples. Por el momento es importante
+modelar 5 funcionalidades de movimiento:
+	ADELANTE: el robot se mueve una posicion sobre el eje x.
+	ATRAS: el robot retrocede una posici´on sobre el eje x.
+	DERECHA: el robot da un paso a la derecha, es decir se mueve una posicion menos sobre y.
+	IZQUIERDA: el robot da un paso a la izquierda, es decir se mueve una posicion mas sobre y.
+	CAMINAR: el robot recibe un patron de movimientos que estan representados como un numero que solamente
+	tienen los digitos 1, 2, 3 y 4. El 1 dice mover adelante, el 2 mover atras, el 3 mover a la derecha y el 4 mover a
+	la izquierda.
+El robot inicia siempre en la posicion 0,0, al terminar un movimiento siempre deber´ıa reportar su nueva posici´on.
+Analiza, dise˜na y presenta un modelo del robot prototipo.

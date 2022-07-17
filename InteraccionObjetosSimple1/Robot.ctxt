@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Robot
+comment1.params=
+comment1.target=Robot()
+comment2.params=
+comment2.target=java.lang.String\ adelante()
+comment3.params=
+comment3.target=java.lang.String\ atras()
+comment4.params=
+comment4.target=java.lang.String\ derecha()
+comment5.params=
+comment5.target=java.lang.String\ izquierda()
+comment6.params=patron
+comment6.target=java.lang.String\ caminar(int)
+numComments=7
