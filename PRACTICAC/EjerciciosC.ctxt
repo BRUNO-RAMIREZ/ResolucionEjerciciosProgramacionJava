@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=EjerciciosC
+comment1.params=n
+comment1.target=java.lang.String\ ejercicio1(int)
+comment2.params=n
+comment2.target=java.lang.String\ cantidadEspacios(int)
+comment3.params=base
+comment3.target=java.lang.String\ ejercicio2(int)
+comment4.params=altCopa\ altTronco
+comment4.target=java.lang.String\ construirArbolPino(int,\ int)
+comment5.params=altCopa\ altTronco
+comment5.target=java.lang.String\ arbol2(int,\ int)
+comment6.params=
+comment6.target=java.lang.String\ generarTablaMultiplicacion()
+numComments=7
